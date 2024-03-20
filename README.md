@@ -27,10 +27,10 @@ To explore the Super Rapid Annotator PoC:
 
 ## TODO
 
-* ##Model Enhancement##: Develop or fine-tune a model capable of extracting relevant information from the generated text and structuring it into JSON format.
-* ##Model Finetuning##: Investigate additional fine-tuning or alternative models for improve accuracy in image-to-text generation.
-* ##Functionality Expansion##: Extend the system's capabilities to handle video inputs and extend functionality to export annotations in CSV format
-* ##Pipeline Optimization##: Explore the integration of LangChain for a more streamlined workflow and implement strictJSON for enhanced JSON validation.
-* ##User Interface##: Enhance the Gradio interface (for example make the chatbot show the image in question and make it easier to input JSON)
-* ##Inference Speed Optimization##: Investigate the use of smaller, more efficient models or model quantization techniques to enhance the inference speed without significantly compromising accuracy.
-* ##JSON Type Handling##: Enhance the system to recognize and correctly handle various JSON data types, such as integers, strings, and arrays, improving the versatility of the annotation output.
+* **Model Enhancement**: Develop or fine-tune a model capable of extracting relevant information from the generated text and structuring it into JSON format.
+* **Model Finetuning**: Investigate additional fine-tuning or alternative models for improve accuracy in image-to-text generation.
+* **Functionality Expansion**: Extend the system's capabilities to handle video inputs and extend functionality to export annotations in CSV format
+* **Pipeline Optimization**: Explore the integration of LangChain for a more streamlined workflow and implement strictJSON for enhanced JSON validation.
+* **User Interface**: Enhance the Gradio interface (for example make the chatbot show the image in question and make it easier to input JSON)
+* **Inference Speed Optimization**: Investigate the use of smaller, more efficient models or model quantization techniques to enhance the inference speed without significantly compromising accuracy.
+* **JSON Type Handling**: Enhance the system to recognize and correctly handle various JSON data types, such as integers, strings, and arrays, improving the versatility of the annotation output.
