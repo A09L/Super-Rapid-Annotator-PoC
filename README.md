@@ -25,6 +25,8 @@ To explore the Super Rapid Annotator PoC:
 2. Execute the cells sequentially. The notebook will guide you through the process, from loading the image to generating annotations.
 3. Upon reaching the Gradio Interface cell, the notebook will launch an interactive interface. Here, you can upload images and see the system's annotations in real time.
 
+Note! It requires a lot of RAM.
+
 ## TODO
 
 * **Model Enhancement**: Develop or fine-tune a model capable of extracting relevant information from the generated text and structuring it into JSON format.
